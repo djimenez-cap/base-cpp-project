@@ -1,0 +1,7 @@
+build/*
+.cache/*
+CMakeUserPresets.json
+docs/*
+include/*
+proto/*
+src/*
